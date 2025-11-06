@@ -1,5 +1,3 @@
-
-````markdown
 # 🧠 Contentify – An AI Workspace for Content Creation
 
 **Contentify** is an all-in-one **AI-powered workspace** that helps users generate, design, and manage digital content efficiently.  
