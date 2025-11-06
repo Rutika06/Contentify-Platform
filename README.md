@@ -1,31 +1,38 @@
-# Full Stack AI Content Platform with Next JS, Tailwind, React Quill, ImageKit, Shadcn UI Tutorial 🔥🔥
-## https://www.youtube.com/watch?v=pyEmZ6WqE5c
-<img width="1280" height="720" alt="creatr" src="https://github.com/user-attachments/assets/721c2fa0-d628-4dbf-af6e-642419774bee" />
 
-### Make sure to create a `.env` file with following variables -
+````markdown
+# 🧠 Contentify – An AI Workspace for Content Creation
 
-```
-# Deployment used by `npx convex dev`
-CONVEX_DEPLOYMENT=
+**Contentify** is an all-in-one **AI-powered workspace** that helps users generate, design, and manage digital content efficiently.  
+Built using **Next.js**, **JavaScript**, **Tailwind CSS**, **ImageKit**, **Shadcn UI**, **Clerk**, **Gemini API** and **Convex**, it combines powerful AI tools with a sleek and responsive interface — designed to accelerate creativity and productivity.
 
-NEXT_PUBLIC_CONVEX_URL=
+---
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
+## 🚀 Features
 
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+- ✍️ **AI Text Generation** – Create blogs, social posts, and marketing content in seconds.  
+- 🖼️ **AI Image Generation** – Generate stunning visuals with ImageKit and AI integration.  
+- ⚡ **Real-Time Backend** – Seamless live updates and instant data sync using Convex.  
+- 🎨 **Modern UI/UX** – Clean, responsive design built with Tailwind CSS and Shadcn UI.  
+- 🔒 **Secure Authentication** – User login and personalized dashboard for saved content.  
+- ☁️ **Optimized Media Delivery** – Lightning-fast image handling powered by ImageKit CDN.  
+- 🧩 **Fully Responsive** – Works smoothly across all devices and screen sizes.
 
-CLERK_JWT_ISSUER_DOMAIN=
+---
 
-# Imagekit
-NEXT_PUBLIC_IMAGEKIT_PUBLIC_KEY=
-NEXT_PUBLIC_IMAGEKIT_URL_ENDPOINT=
-IMAGEKIT_PRIVATE_KEY=
 
-# Unsplash
-NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=
+## 🧩 Tech Stack
 
-#Gemini
-GEMINI_API_KEY=
-```
+| Technology | Purpose |
+|-------------|----------|
+| **Next.js 14** | Framework for full-stack React applications |
+| **JavaScript (ES6+)** | Logic and interactivity |
+| **Tailwind CSS** | Styling and layout system |
+| **Shadcn UI** | Pre-styled UI components for modern design |
+| **ImageKit.io** | Image optimization and CDN delivery |
+| **Convex** | Real-time backend and database |
+| **Clerk** | User Authentication |
+| **Vercel** | Hosting and continuous deployment |
+
+---
+
+
