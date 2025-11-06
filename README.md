@@ -2,6 +2,7 @@
 
 **Contentify** is an all-in-one **AI-powered workspace** that helps users generate, design, and manage digital content efficiently.  
 Built using **Next.js**, **JavaScript**, **Tailwind CSS**, **ImageKit**, **Shadcn UI**, **Clerk**, **Gemini API** and **Convex**, it combines powerful AI tools with a sleek and responsive interface — designed to accelerate creativity and productivity.
+Visit: https://contentify-platform.vercel.app/
 
 ---
 
